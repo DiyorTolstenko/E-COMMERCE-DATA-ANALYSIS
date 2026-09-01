@@ -86,7 +86,7 @@
 
 **Инструменты:** Python (Pandas), SQL, SQLite
 
-👉 [Посмотреть полный анализ](https://dyor-toltenko.github.io/e-COMMERCE-ANALYSIS/)
+👉 [Посмотреть полный анализ](https://diyortolstenko.github.io/E-COMMERCE-DATA-ANALYSIS/)
 
 ---
 
